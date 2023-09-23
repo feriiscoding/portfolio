@@ -314,9 +314,6 @@ a{
         margin-top:110%;
         margin-left:42%;
     }
-    table{
-        display:none;
-    }
     footer{
         height: auto;
     }
@@ -433,12 +430,12 @@ a{
         padding-bottom:20%;
     }
     .insta{
-        width: 12.1%;
+        width: 8%;
         left: 45.4%;
         top:885.1%;
     }
     .tiktok{
-        width: 12.8%;
+        width: 8%;
         left:58.7%;
         top:885%;
     }
